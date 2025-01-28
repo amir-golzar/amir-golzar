@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p float="center">
-  <img align="center" alt="Coding" width="350" height="250" src="https://www.gifcen.com/wp-content/uploads/2022/01/meme-gif-3.gif">
+  <img align="center" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/01/meme-gif-3.gif">
 </p>
 
 

@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,sass)](https://skillicons.dev)

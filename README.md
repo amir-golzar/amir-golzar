@@ -8,13 +8,12 @@
 
 <p float="center">
   <img align="center" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2022/01/meme-gif-3.gif">
-</p>
-
-
+ </p>
+<!--
 <h2>
 🌳Languages and tools:
 </h2>
-
+-->
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 [![My Skills](https://skillicons.dev/icons?i=,vscode,html,css,sass,js,nodejs,npm,git,github,postman)](https://skillicons.dev)

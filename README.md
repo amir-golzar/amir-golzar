@@ -14,6 +14,6 @@
 🌳Languages and tools:
 </h2>
 -->
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+<!-- [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat" -->
 
 [![My Skills](https://skillicons.dev/icons?i=,vscode,html,css,sass,js,nodejs,npm,git,github,postman)](https://skillicons.dev)

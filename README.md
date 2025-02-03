@@ -11,6 +11,10 @@
 </p>
 
 
+<h2>
+  Languages and tools:
+</h2>
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,npm,sass,nodejs,postman)](https://skillicons.dev)

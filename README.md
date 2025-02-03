@@ -14,4 +14,4 @@
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,git,github,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,github,node,git,sass,nodejs)](https://skillicons.dev)

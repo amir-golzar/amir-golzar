@@ -1,7 +1,7 @@
 - 👋 Hi, I’m amir golzar
 - 🌱 I’m currently learning JavaScript
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=amir-golzar&theme=merko" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-golzar&locale=en&hide_title=false&count_private=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>

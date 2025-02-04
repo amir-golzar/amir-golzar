@@ -25,4 +25,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,sass,js,nodejs,npm,git,github,postman)](https://skillicons.dev)
 
 
-<img src="https://raw.githubusercontent.com/shimizudev/shimizudev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shimizudev/shimizudev/output/snake.svg" alt="Snake animation" white="50" />

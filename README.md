@@ -22,7 +22,7 @@
 
 <!-- [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat" -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,sass,js,nodejs,npm,git,express,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,sass,js,nodejs,npm,git,express,esm,github,postman)](https://skillicons.dev)
 
 <!--
 <img src="https://raw.githubusercontent.com/shimizudev/shimizudev/output/snake.svg" alt="Snake animation" white="50" />
